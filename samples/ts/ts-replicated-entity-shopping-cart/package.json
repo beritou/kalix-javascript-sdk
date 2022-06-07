@@ -2,8 +2,8 @@
   "name": "ts-replicated-entity-shopping-cart",
   "version": "0.0.1",
   "engines": {
-    "node": ">=14.0.0",
-    "npm": ">=6.0.0"
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
   },
   "main": "dist/index.js",
   "dependencies": {
@@ -15,7 +15,7 @@
     "@types/chai": "^4.2.21",
     "@types/chai-as-promised": "^7.1.4",
     "@types/mocha": "^8.2.3",
-    "@types/node": "14.18.3",
+    "@types/node": "16.15.1",
     "@typescript-eslint/eslint-plugin": "^4.31.1",
     "@typescript-eslint/parser": "^4.31.0",
     "chai": "^4.3.3",

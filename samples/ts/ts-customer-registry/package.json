@@ -4,7 +4,7 @@
   "description": "Kalix TypeScript SDK sample application for customer registry",
   "engineStrict": true,
   "engines": {
-    "node": "~14"
+    "node": "~16"
   },
   "homepage": "https://github.com/lightbend/kalix-javascript-sdk",
   "bugs": {
@@ -30,7 +30,7 @@
     "@kalix-io/testkit": "1.0.0-M6",
     "@types/chai": "^4.2.21",
     "@types/mocha": "^8.2.3",
-    "@types/node": "14.18.3",
+    "@types/node": "16.15.1",
     "@typescript-eslint/eslint-plugin": "^4.31.0",
     "@typescript-eslint/parser": "^4.31.0",
     "chai": "^4.3.3",
