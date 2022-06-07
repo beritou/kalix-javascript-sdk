@@ -4,7 +4,7 @@
   "type": "module",
   "engines": {
     "node": ">=13.0.0",
-    "npm": ">=6.0.0"
+    "npm": ">=8.0.0"
   },
   "dependencies": {
     "@kalix-io/kalix-javascript-sdk": "1.0.0-M6"
