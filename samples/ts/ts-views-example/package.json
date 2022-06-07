@@ -4,7 +4,7 @@
   "description": "Kalix TypeScript SDK example that demonstrates views",
   "engineStrict": true,
   "engines": {
-    "node": "~14"
+    "node": "~16"
   },
   "homepage": "https://github.com/lightbend/kalix-javascript-sdk",
   "bugs": {
@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@types/mocha": "^8.2.3",
-    "@types/node": "14.18.3",
+    "@types/node": "16.15.1",
     "@typescript-eslint/eslint-plugin": "^4.31.0",
     "@typescript-eslint/parser": "^4.31.0",
     "chai": "4.2.0",
